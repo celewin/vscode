@@ -1,0 +1,24 @@
+{
+    "background.windowBackgrounds": [
+        "c:/Users/clewi/OneDrive/Wallpapers/1267226.jpg"
+    ],
+    "background.backgroundOpacity": [
+        0.95,
+        0.9,
+        0.9,
+        0.9
+    ],
+    "editor.cursorBlinking": "smooth",
+    "editor.fontFamily": " 'FiraCode Nerd Font Mono', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": false,
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "workbench.startupEditor": "none",
+    "terminal.integrated.hideOnStartup": "always",
+    "powershell.integratedConsole.startLocation": "Editor",
+    "zenMode.restore": false,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false
+}
